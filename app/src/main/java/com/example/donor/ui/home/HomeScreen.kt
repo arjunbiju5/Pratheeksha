@@ -114,7 +114,7 @@ fun HomeScreen(
                     BloodDropLogo(size = 80.dp)
                     Spacer(Modifier.height(16.dp))
                     Text(
-                        "PRATHEEKSHA",
+                        "RUDHIRASENA",
                         fontSize   = 36.sp,
                         fontWeight = FontWeight.ExtraBold,
                         color      = Color.White
